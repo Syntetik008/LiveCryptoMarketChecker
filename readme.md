@@ -3,12 +3,12 @@
 </p>
     This python script shows live crypto prices!<br>
     
-    Crypto list:<br>
+    Crypto list:
     • BTC - bitcoin<br>
     • ETH - ethereum<br>
     
-    Currency list:<br>
-    • EUR €<br>
-    • USD $<br>
-    • PLN zł<br>
+    Currency list:
+    • EUR €
+    • USD $
+    • PLN zł
 
